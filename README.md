@@ -2,7 +2,9 @@
 
 A sleek, responsive, and modern web-based calculator designed with a clean pastel aesthetic and intuitive button groupings. Built using pure HTML5, CSS3 (featuring advanced CSS Grid layout controls), and vanilla JavaScript.
 
-![Calculator Preview](https://via.placeholder.com/800x450.png?text=Interactive+Web+Calculator+Preview) ## ✨ Features
+![Calculator Preview](https://via.placeholder.com/800x450.png?text=Interactive+Web+Calculator+Preview)
+
+## ✨ Features
 
 - **Fluid Grid Layout:** Clean separation with numbers styled dynamically on the left side and operators neatly stacked in a high-contrast column on the right.
 - **Sleek Light-Dark Display Screen:** High-contrast slate grey screen with subtle inset shadows providing a premium, native-app feel.
