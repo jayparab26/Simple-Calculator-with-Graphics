@@ -1,0 +1,94 @@
+body {
+	background: linear-gradient(135deg, #ffe5ec, #ffc2d1);
+	font-family: 'Segeo UI', tahoma, Geneva, Verdana, sans-serif;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+	padding: 20px;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+.heading{
+	text-align: center;
+	margin-bottom: 25px;
+}
+
+.heading h1{
+	margin: 0;
+	font-size: 2rem;
+	color: #4a5759;
+	font-weight: 700;
+	letter-spacing: -0.5px;
+}
+.calculator-container{
+	background-color: #ffffff;
+	border-radius: 24px;
+	padding: 25px;
+	box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+	max-width: 340px;
+	width: 100%;
+	box-sizing: border-box;
+}
+
+.calculator-screen input{
+	width: 100%;
+	height: 70;
+	border: none;
+	background-color: #e2ece9;
+	border-radius: 16px;
+	font-size: 2rem;
+	text-align: right;
+	padding: 0 20px;
+	box-sizing: border-box;
+	color: #2b2d42;
+	margin-bottom: 20px;
+}
+
+.calculator-buttons{
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	gap: 20px;
+}
+
+.btn{
+	border: none;
+	padding: 20px;
+	border-radius: 16px;
+	font-size: 1.25rem;
+	font-weight: bold;
+	cursor: pointer;
+	background-color: #e2ece9;
+	color: #4a5759;
+	transition: transform 0.1s ease, background-color 0.2s;
+}
+.btn:active{
+	transform: scale(0.95);
+}
+
+.operator{
+	background-color: #ffb703;
+	color: #ffffff;
+}
+
+.utility{
+	background-color: #ff6b6b;
+	color: #ffffff;
+}
+
+.equals{
+	background-color: #4ea8de;
+	color: #ffffff;
+	grid-row: span 2;
+}
+
+.zero{
+	grid-column: span 2;
+}
+
+.plus{
+	grid-row: span 1;
+}
+
