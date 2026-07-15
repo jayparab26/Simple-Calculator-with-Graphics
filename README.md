@@ -2,7 +2,7 @@
 
 A sleek, responsive, and modern web-based calculator designed with a clean pastel aesthetic and intuitive layout groupings. Built using pure HTML5, CSS3 (featuring advanced CSS Grid layout controls), and vanilla JavaScript.
 
-![Calculator Preview](Calculator.jpg)
+![Calculator Preview](Calculator.JPG))
 
 ## ✨ Features
 
