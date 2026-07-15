@@ -25,4 +25,4 @@ Since this application relies strictly on standard browser capabilities, you do 
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git](https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git)
+   git clone [https://github.com/jayparab26/Simple-Calculator-with-Graphics]
