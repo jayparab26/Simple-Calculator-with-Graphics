@@ -23,6 +23,9 @@ A sleek, responsive, and modern web-based calculator designed with a clean paste
 
 Since this application relies strictly on standard browser capabilities, you do not need to install any complex servers or external packages!
 
-1. **Clone the repository:**
+1. Clone the repository:
    ```bash
-   git clone [https://github.com/jayparab26/Simple-Calculator-with-Graphics]
+   git clone [https://github.com/jayparab26/Simple-Calculator-with-Graphics.git](https://github.com/jayparab26/Simple-Calculator-with-Graphics.git)
+2. Navigate into the directory:
+   ```bash
+   cd Simple-Calculator-with-Graphics
