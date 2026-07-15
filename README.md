@@ -26,4 +26,5 @@ Since this application relies strictly on standard browser capabilities, you do 
 1. Clone the repository:
    git clone [https://github.com/jayparab26/Simple-Calculator-with-Graphics.git](https://github.com/jayparab26/Simple-Calculator-with-Graphics.git)
 2. Navigate into the directory:
+'''bash
    cd Simple-Calculator-with-Graphics
